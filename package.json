@@ -1,0 +1,18 @@
+{
+  "name": "electron-task-app",
+  "version": "1.0.0",
+  "description": "App for products",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "JuanMOsorio",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
